@@ -59,7 +59,3 @@ Contributions are welcome! Feel free to fork this repo, open an issue, or submit
 This project is MIT Licensed – use it freely in personal & commercial projects.
 
 
----
-
-This README is clean, stylish, and professional while keeping it user-friendly. Let me know if you’d like any modifications! 🚀
-
